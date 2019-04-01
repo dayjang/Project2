@@ -1,6 +1,8 @@
 # Project 2 
 
-### GOAL: Using information we scrape the web, build linear regression models from which we can learn about movies, sports, or categories.
+### Goal: 
+
+Using information we scrape the web, build linear regression models from which we can learn about movies, sports, or categories.
 
 ### Skills:
 
